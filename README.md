@@ -2,16 +2,6 @@
 
 This repository contains an implementation of the XceptionNet architecture enhanced with Convolutional Block Attention Module (CBAM) for improved image classification. The main goal of this project is to leverage the power of XceptionNet and enhance its capabilities by incorporating attention mechanisms through CBAM. This implementation is designed to be easy to use and extend.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Customization](#customization)
-6. [Results](#results)
-7. [Citation](#citation)
-8. [License](#license)
 
 ## Introduction
 
